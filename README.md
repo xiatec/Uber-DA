@@ -19,7 +19,7 @@ This project aims to perform data analytics on Uber data using various tools and
 ## Dataset Used
 The dataset used in this project is the TLC Trip Record Data, which includes yellow and green taxi trip records. The dataset captures various fields such as pick-up and drop-off dates/times, locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
-You can access the dataset used in the project [here](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv).
+You can access the dataset used in the project [here](https://github.com/xiatec/Uber-DA/blob/main/data/uber_data.csv).
 
 For more information about the dataset, visit:
 1. [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
